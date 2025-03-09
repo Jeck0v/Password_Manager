@@ -1,0 +1,6 @@
+[dependencies]
+eframe = "0.26"
+egui = "0.26"
+rusqlite = "0.29"
+aes-gcm = "0.10"
+argon2 = "0.5"
